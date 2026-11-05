@@ -29,6 +29,6 @@ By day I build web and Flutter apps for schools; on my own time I make apps and 
 | **DroidView** | The Android emulator headless on the GPU, in one sharp 60 fps window, with an MCP server so AI agents can see and drive the device. Rust (Direct3D 11 / Metal) | [![available](https://img.shields.io/badge/brew-available-1f6feb?style=flat-square&logo=homebrew&logoColor=white)](https://github.com/Cirorx/homebrew-tap) |
 | **Reclaim** | A macOS app that reclaims the disk space Gradle, Xcode, Flutter and AI agents fill up, and explains why it keeps refilling. SwiftUI | ![in development](https://img.shields.io/badge/status-in_development-d97706?style=flat-square) |
 | **Rigby** | An editor for animated mascots and characters that Claude can build, render and check through MCP. Flutter | ![in development](https://img.shields.io/badge/status-in_development-d97706?style=flat-square) |
-| **Sheen** | A browser playground for premium mobile UI effects and motion that exports Flutter code you own. Next.js | ![in development](https://img.shields.io/badge/status-in_development-d97706?style=flat-square) |
+| **[Sheen](https://sheen.ciroapps.com)** | A browser playground for premium mobile UI effects and motion that exports Flutter code you own. Next.js on Cloudflare Workers | [![live preview](https://img.shields.io/badge/live-preview-1f6feb?style=flat-square)](https://sheen.ciroapps.com) |
 
 <sub>Projects in development are private for now. Mac apps: `brew tap cirorx/tap && brew trust cirorx/tap && brew install --cask quire` (or `droidview`).</sub>
